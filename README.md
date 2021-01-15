@@ -1,0 +1,2 @@
+# life-resolusi
+rencana kehidupan
