@@ -2,3 +2,4 @@ life resolusi
 -konsisten 
 -hallo world
 -coding
+-liburan
