@@ -2,4 +2,7 @@ life resolusi
 -konsisten 
 -hallo world
 -coding
+  html
+  javascript
 -libur ke pantai
+-liburan ke gunung
