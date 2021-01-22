@@ -3,6 +3,6 @@ life resolusi
 -hallo world
 -coding
   html
-  javascript
+  php
 -libur ke pantai
 -liburan ke gunung
